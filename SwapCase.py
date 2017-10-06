@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/swap-case
 def swap_case(s):
     swap=[]
     for i in range (len(s)):
